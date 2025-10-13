@@ -1,0 +1,6 @@
+Initial ownership:
+-rwxr-xr-x 1 root root 150 Sep 10 13:45 /home/infosecfall2025/labs/lab02/count_word.sh
+
+Final ownership:
+-rwxr-xr-x 1 lab06_user lab06_group 150 Sep 10 13:45 /home/infosecfall2025/labs/lab02/count_word.sh
+
