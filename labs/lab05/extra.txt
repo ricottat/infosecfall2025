@@ -1,0 +1,3 @@
+Initially, the two users are isolated: user1 controls the folder, and user2 controls the file.
+In the end, they two collaborate: both user1 and user2 have control, through the group, over both the file and the folder.
+

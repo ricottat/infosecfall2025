@@ -1,0 +1,8 @@
+Folder and file ownership and permissions before:
+drwxr-x--- 2 user1_lab05 user1_lab05 4096 Oct 14 17:34 shared_folder
+total 0
+-rw-r----- 1 user2_lab05 user2_lab05 0 Oct 14 18:39 file.txt
+Folder and file ownership and permissions after:
+drwxrwx--- 2 user1_lab05 group_lab05 4096 Oct 14 17:34 shared_folder
+total 0
+-rw-rw---- 1 user1_lab05 group_lab05 0 Oct 14 18:39 file.txt
