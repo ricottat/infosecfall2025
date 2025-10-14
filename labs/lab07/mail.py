@@ -6,7 +6,7 @@ import smtplib
 import shutil
 from datetime import datetime
 
-THRESHOLD=01.0
+THRESHOLD=80.0
 
 base = os.getenv("BASE")
 sender_email = os.getenv("SENDER_EMAIL")
@@ -37,3 +37,6 @@ if used_percentage >= THRESHOLD:
         print(f"Error sending email: {e}")
     finally:
         server.quit()
+else:
+    with open(f"{base}/labs/lab07/verify.txt", "a") as v:
+        v.write(f"Disk usage is ok {datetime.now()}\n")
