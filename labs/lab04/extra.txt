@@ -1,0 +1,9 @@
+Defense strategies against phishing include building secure email gateway, using phishing-resistant multi-factor authentication, training internal users, and keeping software updated.  
+
+Secure email gateway detects malicious content from external traffic by analyzing URLs, attachments and keywords, identifying known threats and using machine learning to identidy suggested threat. 
+
+Phishing-resistant MFA uses cryptographic keys to eliminate authentication on phishing sites, passkeys and devise confirmation to bind authentication to specific device.
+
+User training focuses on educating server users to identify, respond to, and report phishing attacks by giving actual information about phishing techniques and conducting phishing simulations.
+
+Updating software stops hackers from exploiting discovered vulnerabilities of the software.
