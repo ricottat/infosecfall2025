@@ -1,0 +1,6 @@
+insert text
+line2
+line3
+Text from insert_to_output.txt
+vim editor
+append text
